@@ -1,4 +1,4 @@
-# c5xb
+# gnx-b
 [![Docker Image CI](https://github.com/concept10/c5xb/actions/workflows/docker-image.yml/badge.svg)](https://github.com/concept10/c5xb/actions/workflows/docker-image.yml)
 
 
